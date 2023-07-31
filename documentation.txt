@@ -1,0 +1,3 @@
+"as const" used to change into readable form 
+"as is a type" assertion in TypeScript that allows you to tell the compiler to treat a value as a specific type
+"any" is a special type in TypeScript that represents a value of any type. // // we can assign any value to anyValue, regardless of its type
