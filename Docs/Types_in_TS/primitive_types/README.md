@@ -29,3 +29,5 @@
 </div>
 
 ### Reference Types
+
+Those type of array, object, and functions. Means only address of all is only one
